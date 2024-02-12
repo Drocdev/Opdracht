@@ -1,0 +1,12 @@
+int a = 2;
+int b = 10;
+int c = 22;
+int d = 80;
+int e = 127342;
+int totaaltest = 0;
+totaaltest = a + b + c + d + e;
+println(totaaltest);
+totaaltest = a * e;
+println(totaaltest);
+totaaltest = e - d - c - b - a;
+println(totaaltest);
